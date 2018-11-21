@@ -1,8 +1,4 @@
-# Pretty Effective - an analysis of the prettier open source project.
-
-* Web site: https://prettier.io/
-* Twitter: https://twitter.com/PrettierCode
-* GitHub: https://github.com/prettier/prettier
+# An Analysis and Case Study of the Prettier Open Source Project.
 
 The following is a case study I prepared for my open source development class.
 It includes notes, links, and an interview I conducted with [Christopher Chedeau (vjeux)](https://github.com/vjeux) in November 2018.
@@ -11,16 +7,19 @@ It includes notes, links, and an interview I conducted with [Christopher Chedeau
 
 *"[Prettier](https://prettier.io/) is an opinionated code formatter"*
 
+* Web site: [https://prettier.io/](https://prettier.io/)
+* Twitter: [https://twitter.com/PrettierCode](https://twitter.com/PrettierCode)
+* GitHub: [https://github.com/prettier/prettier](https://github.com/prettier/prettier)
+
 Prettier takes source code input (e.g., JavaScript), parses it into an
 [abstract syntax tree (AST)](https://en.wikipedia.org/wiki/Abstract_syntax_tree) and
 uses that tree to output a pretty-printed version of the same code.
 
-You can try it in the browser, entering JavaScript code on the left, and having
+You can [try it in the browser](https://prettier.io/playground/), entering JavaScript code on the left, and having
 it formatted on the right using the [Prettier Playground](https://prettier.io/playground/)
 
 A good introduction to Prettier, and the problems it tries to solve, can be
-seen in this short talk by [James Long](https://twitter.com/jlongste) introducing
-Prettier at React Conf in 2017.
+seen in [this short talk]((https://www.youtube.com/watch?v=hkfBvpEfWdA)) by [James Long](https://twitter.com/jlongste) introducing Prettier at React Conf in 2017.
 
 [![James Long presenting Prettier at React Conf 2017](https://img.youtube.com/vi/hkfBvpEfWdA/0.jpg)](https://www.youtube.com/watch?v=hkfBvpEfWdA)
 
