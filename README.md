@@ -52,6 +52,8 @@ Atom, Emacs, Sublime, Vim, Visual Studio, VSCode, WebStorm
 
 *2 Dec 2016* - James tweets about his intial work. [“I have other things I should be working on”](https://twitter.com/jlongster/status/804888882408026113) with a short [animation of what his code could already do](https://video.twimg.com/tweet_video/CyuKKO3XgAAgSlm.mp4)
 
+*10 Jan, 2017* - James [announces the start of the Prettier project on his blog](https://jlongster.com/A-Prettier-Formatter). The post gets [a lot of attention on Hacker News](https://news.ycombinator.com/item?id=13365470).
+
 *20 Feb, 2017* - James [announces](https://twitter.com/jlongster/status/833794481438720000) he's moving Prettier to its [own GitHub Organization](https://github.com/prettier). This is a significant step, in that it sets the stage for Prettier to become a community project vs. one person's.  Doing this always requires someone (the original developer) to be willing to part with some aspect of what they’ve built, namely, absolute control, 1:1 name recognition, etc.  There is a cost to this investment. 
 
 *13 April, 2017* - [Prettier reaches 1.0](https://jlongster.com/prettier-1.0)
