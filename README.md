@@ -66,6 +66,8 @@ Atom, Emacs, Sublime, Vim, Visual Studio, VSCode, WebStorm
 
 *20 March, 2018* - [Prettier wins an open source award](https://www.infoworld.com/article/3263736/open-source-tools/the-best-open-source-rookies-of-2018.html)
 
+*18 Jan, 2019* - [Prettier wins Dev Tool of the Year Golden Kitty Award from Product Hunt](https://blog.producthunt.com/winners-of-the-2018-golden-kitty-awards-are-revealed-881c205a1e1f)
+
 ## Project Development and Structure
 
 Prettier is a massive test suite, which also happens to pretty-print code as a side effect:
